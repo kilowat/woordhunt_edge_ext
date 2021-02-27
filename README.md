@@ -1,1 +1,1 @@
-# Edge extentions for wooordhunt.ru. Audio text reader.
+# Edge extention for wooordhunt.ru. Audio text reader.

@@ -83,7 +83,6 @@ class Speaker{
       let text = '';
       let textPharsesNodes = this.getPreviousSiblingsExceptI(phrNodes[i]);
       for(let j = textPharsesNodes.length - 1; j >= 0; j--){
-        console.log(j);
         if (textPharsesNodes[j].nodeType == 3){
           text+=textPharsesNodes[j].textContent;
         } else {
